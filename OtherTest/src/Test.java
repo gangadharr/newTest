@@ -27,7 +27,7 @@ public class Test {
 		
 		System.out.println( " " + b + s + i + l + d + st );
 		StringBuilder sta = new StringBuilder();
-		sta.toString();
+		System.out.println(sta.toString());
 	}
 	
 	
